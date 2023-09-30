@@ -1,0 +1,165 @@
+{
+    "questions": [{
+            "questionText": "Which one is the first fully supported 64 bit operating system?",
+            "options": [{
+                    "text": "linux",
+                    "correct": true
+                },
+                {
+                    "text": "windows vista"
+                },
+                {
+                    "text": "Mac"
+                },
+                {
+                    "text": "Windows xp"
+                }
+            ],
+            "explanation": ""
+        },
+        {
+            "questionText": "Computer Hard disk was first introduced in 1956 by?",
+            "options": [{
+                    "text": "Dell"
+                },
+                {
+                    "text": "Apple"
+                },
+                {
+                    "text": "Microsoft"
+                },
+                {
+                    "text": "IBM",
+                    "correct": true
+                }
+            ],
+            "explanation": ""
+        },
+        {
+            "questionText": "which of the following is not a web browser?",
+            "options": [{
+                    "text": "MOSAIC"
+                },
+                {
+                    "text": "Facebook",
+                    "correct": true
+                },
+                {
+                    "text": "WWW"
+                },
+                {
+                    "text": "Netscape navigator"
+                }
+            ],
+            "explanation": ""
+        },
+        {
+            "questionText": "In computer word trojan refer to ?",
+            "options": [{
+                    "text": "Virus"
+                },
+                {
+                    "text": "Malware",
+                    "correct": true
+                },
+                {
+                    "text": "Worm "
+                },
+                {
+                    "text": "Spyware"
+                }
+            ],
+            "explanation": ""
+        },
+        {
+            "questionText": "Which one of the following is the a programming language ?",
+            "options": [{
+                    "text": "HTML",
+                    "correct": true
+                },
+                {
+                    "text": "HTTP"
+                },
+                {
+                    "text": "HPML"
+                },
+                {
+                    "text": "FTP"
+                }
+            ],
+            "explanation": ""
+        },
+        {
+            "questionText": "Which Protocol is used to recieve email?",
+            "options": [{
+                    "text": "SMTP"
+                },
+                {
+                    "text": "HTTP"
+                },
+                {
+                    "text": "FTp"
+                },
+                {
+                    "text": "POP3",
+                    "correct": true
+                }
+            ],
+            "explanation": ""
+        },
+        {
+            "questionText": "Which protocol is used to send the email?",
+            "options": [{
+                    "text": "POP3"
+                },
+                {
+                    "text": "SMTP",
+                    "correct": true
+                },
+                {
+                    "text": "HTTP"
+                },
+                {
+                    "text": "FTP"
+                }
+            ],
+            "explanation": ""
+        },
+        {
+            "questionText": "IN which year the '@' sign first choosen into email address?",
+            "options": [{
+                    "text": "1972",
+                    "correct": true
+                },
+                {
+                    "text": "1976"
+                },
+                {
+                    "text": "1998"
+                },
+                {
+                    "text": "1980"
+                }
+            ],
+            "explanation": ""
+        },
+        {
+            "questionText": "Who is known as the father of indian Super Computing?",
+            "options": [{
+                    "text": "vijay bhatkar",
+                    "correct": true
+                },
+                {
+                    "text": "jayant nalikar"
+                },
+                {
+                    "text": "Azim premji"
+                },
+                {
+                    "text": "Nandan nilekani"
+                }
+            ],
+            "explanation": ""
+        }
+    ]
+}

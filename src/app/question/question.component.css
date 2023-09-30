@@ -1,0 +1,38 @@
+card {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 10px;
+}
+
+li {
+    list-style-type: none;
+    cursor: pointer;
+    margin: 10px 0;
+}
+
+li .card:hover {
+    border: 1px solid blue;
+}
+
+ol {
+    padding: 0;
+}
+/* Add these styles to your component's CSS file (e.g., question.component.css) */
+
+.card {
+    background-color: #f0f0f0; /* Set the background color for questions */
+    padding: 10px;
+    margin: 10px 0;
+  }
+  
+  .options ol li .card {
+    background-color: #d6e9c6; /* Set the background color for options */
+    padding: 10px;
+    cursor: pointer;
+    transition: background-color 0.3s ease; /* Add a smooth transition effect */
+  }
+  
+  .options ol li .card:hover {
+    background-color: #a3e9a4; /* Set the background color for options on hover */
+  }
+  
